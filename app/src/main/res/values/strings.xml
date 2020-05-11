@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Covid19</string>
+    <string name="lblRegistro_String">Registro</string>
+    <string name="lblTel_String">Numero de Celular</string>
+    <string name="lblTel_String_Hint">Celular</string>
+    <string name="lblNac_String">Nacionalidad</string>
+    <string name="lblTipDoc_String">Tipo de Documento</string>
+    <string name="lblNumDoc_String">Numero de Documento</string>
+    <string name="lblNumDoc_String_Hint">Numero de Documento</string>
+    <string name="lblSig_String">Siguiente</string>
+    <string name="lblImg_String">Img</string>
+
+    <!-->
+    Activity Next
+    <!-->
+    <string name="lblMsg1_String">Vence al Covid-19 es responsabilidad de todos.</string>
+    <string name="lblMsg2_String">Averigua si tienes posibilidad de riesgo.</string>
+
+    <!-->
+     Activity Accesos
+     <!-->
+    <string name="lblAccesos_String">Accesos</string>
+    <string name="lblMsg1Accesos_String">Deberas activar los siguientes accesos.</string>
+    <string name="lblBlu_String">BlueTooth</string>
+    <string name="lblGps_String">GPS</string>
+    <string name="lblMsg2Accesos_String">Te permitira recibir alertas sobre las posibles zonas de contagio y asi puedas tomar precausiones.</string>
+
+</resources>
